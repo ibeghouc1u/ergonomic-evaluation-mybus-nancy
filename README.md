@@ -45,16 +45,7 @@ The analysis is based on **Jakob Nielsen's 10 Usability Heuristics**, a widely r
 
 ---
 
-## Recommendations
 
-Based on the evaluation results, several improvements are proposed:
-
-* Improve navigation clarity.
-* Enhance error prevention mechanisms.
-* Provide better feedback for user actions.
-* Optimize information hierarchy and readability.
-
----
 
 
 
